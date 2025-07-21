@@ -45,6 +45,7 @@ A fast, elegant, and responsive terminal-based AI assistant powered by your loca
 - **AI Model**: liquid/lfm2-1.2b (via [LM Studio](https://lmstudio.ai/))
 - **Model Serving**: LM Studio (REST API)
 - **API Communication**: REST API (HTTP)
+- **GPU Acceleration**: NVIDIA RTX GPU (optional, for faster inference)
 
 ---
 
@@ -153,4 +154,4 @@ MIT License. Free to use, modify, and share.
 
 ---
 
-> ✨ “May the shadows keep you
+> ✨ “May the shadows keep you safe.”
