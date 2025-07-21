@@ -124,7 +124,7 @@ Type `'exit'` to gracefully disconnect.
 ## 📁 Project Structure
 
 ```
-📦 kira-terminal-chatbot/
+📦 K.I.R.A/
  ┣ chatbot.py                # Main chatbot script
  ┗ README.md              # Project README
 ```
