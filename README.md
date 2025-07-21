@@ -55,6 +55,12 @@ Type `'exit'` to gracefully disconnect.
 
 ---
 
+## 📸 Demo
+
+![KIRA Terminal UI](Screenshot.png)
+
+---
+
 ## 📁 Project Structure
 
 ```
