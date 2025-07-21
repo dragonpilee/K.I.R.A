@@ -81,7 +81,7 @@ A fast, elegant, and responsive terminal-based AI assistant powered by your loca
 
 With LM Studio running, launch KIRA:
 ```bash
-python kira.py
+python chatbot.py
 ```
 
 You'll see the stylized ASCII banner and can chat live in your terminal.  
@@ -125,7 +125,7 @@ Type `'exit'` to gracefully disconnect.
 
 ```
 📦 kira-terminal-chatbot/
- ┣ kira.py                # Main chatbot script
+ ┣ chatbot.py                # Main chatbot script
  ┗ README.md              # Project README
 ```
 
