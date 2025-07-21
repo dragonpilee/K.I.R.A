@@ -147,7 +147,7 @@ You are based on the model liquid/lfm2-1.2b.
 ## 👨‍💻 Developer
 
 **Alan Cyril Sunny**  
-🔗 [GitHub](https://github.com/dragonpilee) | 📫 alancyrilsunny@protonmail.com
+📫 alancyrilsunny@protonmail.com
 
 ---
 
@@ -157,4 +157,4 @@ MIT License. Free to use, modify, and share.
 
 ---
 
-> ✨ “May the shadows keep you safe.” —
+> ✨ “May the shadows keep you safe.” — KIRA
