@@ -24,6 +24,7 @@ A fast, elegant, and responsive terminal-based AI assistant powered by your loca
 - ⌨️ Glitchy effects and slow typing for hacker vibes  
 - ⚙️ Fully configurable API/model settings  
 - 🔒 100% local processing for privacy and control  
+- ⚡ **Supports both NVIDIA CUDA and AMD ROCm GPUs for accelerated inference**  
 
 ---
 
@@ -35,6 +36,7 @@ A fast, elegant, and responsive terminal-based AI assistant powered by your loca
 - **Conversation Memory**: Remembers previous turns for context.
 - **Customizable**: Easily tweak API/model via environment variables.
 - **Local & Private**: All data stays on your machine.
+- **GPU Support**: Works with NVIDIA CUDA and AMD ROCm supported GPUs.
 
 ---
 
@@ -45,7 +47,7 @@ A fast, elegant, and responsive terminal-based AI assistant powered by your loca
 - **AI Model**: liquid/lfm2-1.2b (via [LM Studio](https://lmstudio.ai/))
 - **Model Serving**: LM Studio (REST API)
 - **API Communication**: REST API (HTTP)
-- **GPU Acceleration**: NVIDIA RTX GPU (optional, for faster inference)
+- **GPU Acceleration**: NVIDIA RTX GPU (CUDA) or AMD GPU (ROCm) for faster inference
 
 ---
 
@@ -54,6 +56,7 @@ A fast, elegant, and responsive terminal-based AI assistant powered by your loca
 - Python 3.8 or higher
 - LM Studio running locally at `http://localhost:1234`
 - Installed model: `liquid/lfm2-1.2b` or compatible
+- *(Optional)* NVIDIA CUDA or AMD ROCm supported GPU for acceleration
 
 ---
 
@@ -154,4 +157,4 @@ MIT License. Free to use, modify, and share.
 
 ---
 
-> ✨ “May the shadows keep you safe.”
+> ✨ “May the shadows keep you safe.” —
